@@ -7,7 +7,7 @@ body {
 
  header {
  	position: fixed;
-	min-height: 10px;
+	min-height: 13px;
 	padding: 0px 20px;
 	display: flex;
 	justify-content: space-around;
